@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="520" viewBox="0 0 380 520" role="img" aria-labelledby="health-title health-desc">
   <title id="health-title">音源可用性</title>
-  <desc id="health-desc">共 17 个音源的状态检测结果，状态更新于 2026-11-27 10:43（北京时间）</desc>
+  <desc id="health-desc">共 17 个音源的状态检测结果，状态更新于 2026-11-28 08:23（北京时间）</desc>
 <style>
   .bg{fill:#ffffff}
   .rule{stroke:#e5e7eb;stroke-width:1}
@@ -72,8 +72,8 @@
   <circle class="dot warn" cx="228" cy="449" r="5"/>
   <text class="fg cell" x="244" y="453">异常</text>
   <text class="fg cell" x="24" y="479">ikun</text>
-  <circle class="dot warn" cx="228" cy="475" r="5"/>
-  <text class="fg cell" x="244" y="479">异常</text>
+  <circle class="dot dead" cx="228" cy="475" r="5"/>
+  <text class="fg cell" x="244" y="479">失效</text>
   <line class="rule" x1="24" y1="488" x2="356" y2="488"/>
-  <text class="muted foot" x="24" y="508">状态更新于 2026-11-27 10:43（北京时间）</text>
+  <text class="muted foot" x="24" y="508">状态更新于 2026-11-28 08:23（北京时间）</text>
 </svg>
